@@ -9,7 +9,7 @@ Colab-friendly PyTorch notebook that trains EfficientNet-B4 U-Net and DenseNet12
 
 ## Dataset
 
-- Source: [IDRiD Segmentation + Localization](https://www.kaggle.com/datasets/abhishek14398/diabetic-retinopathy-image-dataset)
+- Source: [IDRiD Segmentation + Localization](https://www.kaggle.com/datasets/dankok/diabetic-retinopathy-image-dataset)
 - Access: Uses KaggleHub/opendatasets for direct download (requires Kaggle API credentials).
 - Merge Strategy: Combines segmentation and localization images/masks; discovers mask channel names automatically.
 
